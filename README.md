@@ -20,7 +20,7 @@ by EDA_MINI_1TEAM
   -  결측치/이상치 처리 후 상관분석, 시각화 (히트맵, 박스플롯..) 등을 통해 계절, 지역, 용도 (가정용/일반용/산업용)
   - 본 프로젝트는 각종 날씨 데이터(기온, 습도, 강수량 등)와 전력 수요가 어떤 영향 관계가 있는지 확인함
 
-**기사 링크 및 데이터 출처**
+기사 링크 및 데이터 출처
 [kbs뉴스] "‘2018년 이후 역대급 더위’ 8월, 주택 전기사용량 역대 최대" : https://news.kbs.co.kr/news/pc/view/view.do?ncd=7793279
 [제주의소리] "‘한치에 에어컨까지’ 제주 초유의 10월 전력 800MW" : [https://www.jejusori.net](https://www.jejusori.net/news/articleView.html?idxno=440240)
 [헌국전력] 시군구별 전력 판매량 정보제공 https://www.kepco.co.kr/home/customer/library/electricity-statistics/sales-volume/boardList.do
@@ -152,6 +152,7 @@ by EDA_MINI_1TEAM
   - 시간적 범위: 단기 데이터 분석으로, 장기적 기후변화 추세로 일반화하기에는 한계가 있음.
   - 분석의 지향점: 신규 알고리즘 개발보다 EDA와 기초 통계 모델을 통한 직관적 패턴 탐색 및 검증에 주력함.
   
+
 
 
 
