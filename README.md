@@ -136,11 +136,54 @@ by EDA_MINI_1TEAM
 * 10년 사이에 연평균 기온이 크게 상승했는데 이는 24년이 113년 관측 역사상 가장더운 한해로 역대 최고 기록을 14.5°C로 경신했기 때문임
 * 출처 : https://www.kma.go.kr/kma/news/press.jsp?mode=view&num=1194448
 
+
+---------------------
+## 7. 지역별 걔약종별 전력사용량 비율 분석
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EC%84%9C%EC%9A%B8.png" style="width:100%; height:auto;" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B2%BD%EC%9D%B8%EC%A7%80%EC%97%AD.png" style="width:100%; height:auto;" />
+    </td>
+  </tr>
+</table>
+
+- 서울 지역 : 일반 상업용이 많이 나타났다. 특히 강남, 서초 등과 같이 업무지구가 조성되어 있는 곳이 있어, 전력의 사용 비중이 높았음
+- 경인 지역 : 인천과 경기도 5개 지역의 데이터를 이용했다. 인천과 경기는 주택과 산업이 같이 밀집되어 있다는 점, 또한 인천은 항구 도시이기에 산업용이 높게 나타나는 것을 볼 수 있었음
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84.png" style="width:100%; height:auto;" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84.png" style="width:100%; height:auto;" />
+    </td>
+  </tr>
+</table>
+
+- 경상북도 지역 : 포항, 울산 등 대한민국 최대 공업단지가 조성되어 있어, 일반용이나 주택용이 상대적으로 다른 지역보다 적게 나타났고 산업용이 많이 나타났음
+- 경상남도 지역 : 남해바다를 접하고 부산이라는 항구도시가 있어, 산업용이 높지만 크게 높은 비율을 보이진 않음
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/c750f559-8561-4408-a037-b9a057209a9e" style="width:100%; height:auto;" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EC%B6%A9%EC%B2%AD%EB%8F%84.png" style="width:100%; height:auto;" />
+    </td>
+  </tr>
+</table>
+
+- 강원도 지역 : 산업용이 높지만, 주택과 일반용도 완만한 비율을 보였고, 다른 지역에 비해 심야가 높은 것을 볼 수 있었음
+- 충청도 지역 : 산업용이 높지만, 다른 지역에 비해 산업용 전력사용량의 평균이 완만함
+
 ---------------------
 
-
-
-## 7. 지역 & 핵심 계약종별 전력 사용량과 기상요인 상관관계 분석
+## 8. 지역 & 핵심 계약종별 전력 사용량과 기상요인 상관관계 분석
 <table width="100%">
   <tr>
     <td width="50%">
@@ -199,57 +242,10 @@ by EDA_MINI_1TEAM
   
 - 전라도: 냉방도일이 0.12로 약한 양적 상관관계를 보임. 나머지 기상요인과 전력 사용량은 거의 상관관계가 없음
 
----------------------
-## 지역별 걔약종별 전력사용량 비율 분석
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EC%84%9C%EC%9A%B8.png" style="width:100%; height:auto;" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B2%BD%EC%9D%B8%EC%A7%80%EC%97%AD.png" style="width:100%; height:auto;" />
-    </td>
-  </tr>
-</table>
-
-- 서울 지역 : 일반 상업용이 많이 나타났다. 특히 강남, 서초 등과 같이 업무지구가 조성되어 있는 곳이 있어, 전력의 사용 비중이 높았음
-- 경인 지역 : 인천과 경기도 5개 지역의 데이터를 이용했다. 인천과 경기는 주택과 산업이 같이 밀집되어 있다는 점, 또한 인천은 항구 도시이기에 산업용이 높게 나타나는 것을 볼 수 있었음
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84.png" style="width:100%; height:auto;" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84.png" style="width:100%; height:auto;" />
-    </td>
-  </tr>
-</table>
-
-- 경상북도 지역 : 포항, 울산 등 대한민국 최대 공업단지가 조성되어 있어, 일반용이나 주택용이 상대적으로 다른 지역보다 적게 나타났고 산업용이 많이 나타났음
-- 경상남도 지역 : 남해바다를 접하고 부산이라는 항구도시가 있어, 산업용이 높지만 크게 높은 비율을 보이진 않음
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B0%95%EC%9B%90%EB%8F%84.png" style="width:100%; height:auto;" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EC%B6%A9%EC%B2%AD%EB%8F%84.png" style="width:100%; height:auto;" />
-    </td>
-  </tr>
-</table>
-
-- 강원도 지역 : 산업용이 높지만, 주택과 일반용도 완만한 비율을 보였고, 다른 지역에 비해 심야가 높은 것을 볼 수 있었음
-- 충청도 지역 : 산업용이 높지만, 다른 지역에 비해 산업용 전력사용량의 평균이 완만함
-
----------------------
 
 
 
-
-
-## 8. 지역별 산업용 전력 소비량 기상 영향 분석 (GLM)
+## 9. 지역별 산업용 전력 소비량 기상 영향 분석 (GLM)
 
 본 프로젝트는 지역별 산업용 전력 소비 데이터와 기상 변수 간의 관계를 **일반화 선형 모델(Generalized Linear Model, GLM)**을 통해 분석한 결과임
 
@@ -328,7 +324,7 @@ by EDA_MINI_1TEAM
 
 
 ---------------------
-## 9. 본 프로젝트의 한계점:
+## 10. 본 프로젝트의 한계점:
   - 변수의 한정성: 전기요금, 경제지표 등 비기상 및 사회, 환경적 요인을 제외하고 기상 변수(기온·습도 등)에 집중함
   - 분석의 지향점: 예측, 분류 모델의 개발보다 EDA와 통계 모델을 통한 직관적 패턴 탐색 및 검증에 주력함
   
