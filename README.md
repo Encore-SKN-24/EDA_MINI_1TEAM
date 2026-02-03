@@ -138,7 +138,7 @@ by EDA_MINI_1TEAM
 
 
 ---------------------
-## 7. 지역별 걔약종별 전력사용량 비율 분석
+## 7. 지역별 걔약종별 전력사용량 비율 확인
 <table width="100%">
   <tr>
     <td width="50%">
@@ -205,7 +205,7 @@ by EDA_MINI_1TEAM
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/c750f559-8561-4408-a037-b9a057209a9e" style="width:100%; height:auto;" />
+      <img src="https://github.com/user-attachments/assets/6050097b-1634-428a-b4a7-a7ba9c54d19e" style="width:100%; height:auto;" />
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/2b3ed0a1-85e3-464e-aea1-972954760a0e" style="width:100%; height:auto;" />
@@ -356,6 +356,7 @@ COMMENT
 COMMENT
 ```
 <br/><br/>
+
 
 
 
