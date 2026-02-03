@@ -83,8 +83,8 @@ by EDA_MINI_1TEAM
 | 일조율(%) | 하루 중 햇빛이 비친 시간 비율 |
 | 최심적설(cm) | 하루 중 가장 깊은 적설(눈 깊이) |
 | 평균지면온도(°C) | 하루 평균 지면 온도 |
-| CDD (Cooling Degree Day) | 냉방도일 – 냉방 필요 정도를 나타내는 지표(비선형 변수) |
-| HDD (Heating Degree Day) | 난방도일 – 난방 필요 정도를 나타내는 지표(비선형 변수) |
+| CDD (Cooling Degree Day) | 냉방도일 – 평균 온도와 기준 온도를 활용하여 냉방 필요 정도를 나타내는 지표 |
+| HDD (Heating Degree Day) | 난방도일 – 평균 온도와 기준 온도를 활용하여 난방 필요 정도를 나타내는 지표 |
 
 <small>CDD (Cooling Degree Day, 냉방도일) = $\max(T_\text{평균} - 24, 0)$</small>  
 <small>HDD (Heating Degree Day, 난방도일) = $\max(18 - T_\text{평균}, 0)$</small>
@@ -356,6 +356,7 @@ COMMENT
 COMMENT
 ```
 <br/><br/>
+
 
 
 
