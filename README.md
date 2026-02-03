@@ -42,6 +42,12 @@ by EDA_MINI_1TEAM
     - 시각화 : 선 그래프, 히트맵, 박스플롯
    
 
+### 🔗 Data Sources
+- [한국전력 전력통계월보](https://www.kepco.co.kr](https://www.kepco.co.kr/home/customer/library/electricity-statistics/sales-volume/boardList.do )
+* 15~24년 **20203개**의 지역 및 날짜, 전력사용 관련 데이터
+- [기상청 기상자료개방포털(ASOS)](https://data.kma.go.kr](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36 )
+* 15~24년 **11423개**의 지역 및 날짜, 날씨 관련 데이터
+
 ---------------------
 ## 기술 스택
 
@@ -97,12 +103,6 @@ by EDA_MINI_1TEAM
 | 합계 | 위 모든 계약종별을 합산한 총 전력 사용량 |
 
 
-### 🔗 Data Sources
-- [한국전력 전력통계월보]([https://www.kepco.co.kr](https://www.kepco.co.kr/home/customer/library/electricity-statistics/sales-volume/boardList.do )
-* 15~24년 **20203개**의 지역 및 날짜, 전력사용 관련 데이터
-- [기상청 기상자료개방포털(ASOS)]([https://data.kma.go.kr](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36  ))
-* 15~24년 **11423개**의 지역 및 날짜, 날씨 관련 데이터
----------------------
 
 ## 간단한 그래프 보기
 
@@ -351,6 +351,7 @@ COMMENT
 COMMENT
 ```
 <br/><br/>
+
 
 
 
