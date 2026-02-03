@@ -36,7 +36,9 @@ by EDA_MINI_1TEAM
 [kbs뉴스] "‘2018년 이후 역대급 더위’ 8월, 주택 전기사용량 역대 최대" : https://news.kbs.co.kr/news/pc/view/view.do?ncd=7793279
 [제주의소리] "‘한치에 에어컨까지’ 제주 초유의 10월 전력 800MW" : [https://www.jejusori.net](https://www.jejusori.net/news/articleView.html?idxno=440240)
 [헌국전력] 시군구별 전력 판매량 정보제공 https://www.kepco.co.kr/home/customer/library/electricity-statistics/sales-volume/boardList.do
+* 15~24년 20203개의 지역과 월별 데이터
 [기상자료개방포털] 종관기상관측(ASOS) https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36
+* 15~24년 11423개의 지역과 월별 데이터
 ---------------------
 
 ## 간단한 그래프 보기
@@ -199,6 +201,7 @@ by EDA_MINI_1TEAM
   - 시간적 범위: 단기 데이터 분석으로, 장기적 기후변화 추세로 일반화하기에는 한계가 있음.
   - 분석의 지향점: 신규 알고리즘 개발보다 EDA와 기초 통계 모델을 통한 직관적 패턴 탐색 및 검증에 주력함.
   
+
 
 
 
