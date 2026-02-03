@@ -3,10 +3,10 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/ea9c5178-31f3-4c95-98c4-075c6a0fca18" style="width:100%; height:auto;" />
+      <img src="https://github.com/user-attachments/assets/51250008-6046-495e-8344-ba1a2cf4f532" style="width:100%; height:auto;" />
     </td>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/1d5a2ecb-f2be-4ff6-82ef-1f797240f0ff" style="width:100%; height:auto;" />
+      <img src="https://github.com/user-attachments/assets/eb4307e4-e9c2-4f5e-bb71-3ad8d227b567" style="width:100%; height:auto;" />
     </td>
   </tr>
 </table>
@@ -57,15 +57,6 @@
 - 경상도: 평균풍속과 평균현지기압이 각각 0.22, 0.21로 약한 양적 상관관계를 보임. 나머지 기상요인과 전력 사용량은 거의 상관관계가 없음.
 - 전라도: 냉방도일이 0.12로 약한 양적 상관관계를 보임. 나머지 기상요인과 전력 사용량은 거의 상관관계가 없음.
 
-
-
-
-
-<img width="671" height="438" alt="서울" src="https://github.com/user-attachments/assets/51250008-6046-495e-8344-ba1a2cf4f532" />
-
-
-
-<img width="678" height="438" alt="경인지역" src="https://github.com/user-attachments/assets/eb4307e4-e9c2-4f5e-bb71-3ad8d227b567" />
 
 
 
