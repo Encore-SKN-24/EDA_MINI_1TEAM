@@ -87,7 +87,7 @@ by EDA_MINI_1TEAM
 | HDD (Heating Degree Day) | 난방도일 – 평균 온도와 기준 온도를 활용하여 난방 필요 정도를 나타내는 지표 |
 
 <small>CDD (Cooling Degree Day, 냉방도일) = $\max(T_\text{평균} - 24, 0)$</small>  
-<small>HDD (Heating Degree Day, 난방도일) = $\max(18 - T_\text{평균}, 0)$</small>
+<small>HDD (Heating Degree Day, 난방도일) = $\max(18 - T_\text{평균}, 0)$</small> 
 
 
 ### 5.2. 전력사용량 데이터 컬럼 설명
@@ -356,6 +356,7 @@ COMMENT
 COMMENT
 ```
 <br/><br/>
+
 
 
 
