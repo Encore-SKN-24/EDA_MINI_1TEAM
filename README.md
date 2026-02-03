@@ -135,6 +135,9 @@ by EDA_MINI_1TEAM
   
 - 전라도: 냉방도일이 0.12로 약한 양적 상관관계를 보임. 나머지 기상요인과 전력 사용량은 거의 상관관계가 없음.
 
+![서울시 계약종별 전력사용량](https://github.com/yourusername/repository/blob/main/서울.png) ![경인지역 계약종별 전력사용량](https://github.com/yourusername/repository/blob/main/경인지역.png)
+
+
 
 ## 날씨 데이터 컬럼 설명
 
@@ -196,6 +199,7 @@ by EDA_MINI_1TEAM
   - 시간적 범위: 단기 데이터 분석으로, 장기적 기후변화 추세로 일반화하기에는 한계가 있음.
   - 분석의 지향점: 신규 알고리즘 개발보다 EDA와 기초 통계 모델을 통한 직관적 패턴 탐색 및 검증에 주력함.
   
+
 
 
 
