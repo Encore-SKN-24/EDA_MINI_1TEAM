@@ -108,7 +108,7 @@ by EDA_MINI_1TEAM
 ## 전력 사용량과 온도 데이터의 추세 확인
 
 
-### 1. 대한민국 전체 지역 월별 전력사용량 합계 추이
+### 1. 대한민국 전체 지역 연도 별 전력사용량 합계 추이
 ![전력사용량 추이](./assets/korea_monthly_power_usage_trend.png)
 
 #### 그래프 해석
@@ -352,6 +352,7 @@ COMMENT
 COMMENT
 ```
 <br/><br/>
+
 
 
 
