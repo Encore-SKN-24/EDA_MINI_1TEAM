@@ -214,6 +214,33 @@ by EDA_MINI_1TEAM
   
 
 
+<br/>
+<br/>
+
+## 💭한 줄 회고
+
+정재훈
+```
+COMMENT
+```
+김은우
+```
+COMMENT
+```
+고아라
+```
+COMMENT
+```
+나혜린
+```
+COMMENT
+```
+박수영
+```
+COMMENT
+```
+<br/><br/>
+
 
 
 
