@@ -6,7 +6,7 @@ by EDA_MINI_1TEAM
 
 ## 2. 프로젝트 배경 및 필요성
 - 2-1. 폭염·한파 시 냉·난방 전력 수요량이 매년 상승
-   <img width="520" height="300" alt="image" src="https://github.com/user-attachments/assets/f58ca700-7cc8-4b74-be1b-0795fae75459" />
+   <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f58ca700-7cc8-4b74-be1b-0795fae75459" />
 
 - 2-2.기온과 전력 사용량의 연관은 사례를 통해 확인된다. 2025년 10월 제주의 날씨는 기온이 떨어지지 않아, 10월 들어 6일간 제주지역 하루 최대전력량이 800MW를 넘어섰다. 이는 기온이 전력 사용량에 큰 영향을 주는 것이라고 판단된다 *출처 : 제주의소리(https://www.jejusori.net)
 
@@ -32,4 +32,5 @@ by EDA_MINI_1TEAM
   - 시간적 범위: 단기 데이터 분석으로, 장기적 기후변화 추세로 일반화하기에는 한계가 있음.
   - 분석의 지향점: 신규 알고리즘 개발보다 EDA와 기초 통계 모델을 통한 직관적 패턴 탐색 및 검증에 주력함.
   
+
 
