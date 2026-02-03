@@ -162,7 +162,7 @@ by EDA_MINI_1TEAM
 <table width="100%">
   <tr>
     <td width="50%">
-      <img width="572" height="466" alt="강원도_계약종별_전력량" src="https://github.com/user-attachments/assets/c750f559-8561-4408-a037-b9a057209a9e" />
+      <img src="https://github.com/user-attachments/assets/c750f559-8561-4408-a037-b9a057209a9e" style="width:100%; height:auto;" />
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/2b3ed0a1-85e3-464e-aea1-972954760a0e" style="width:100%; height:auto;" />
@@ -360,6 +360,7 @@ COMMENT
 COMMENT
 ```
 <br/><br/>
+
 
 
 
