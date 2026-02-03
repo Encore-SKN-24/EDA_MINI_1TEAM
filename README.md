@@ -1,17 +1,4 @@
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/2b3ed0a1-85e3-464e-aea1-972954760a0e" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/725758ed-3d1e-49d8-a7e3-6466e7aead07" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/5690c3ed-7060-4447-bc43-23d8c90a604e" width="100%"/></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/2b3ed0a1-85e3-464e-aea1-972954760a0e" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/725758ed-3d1e-49d8-a7e3-6466e7aead07" width="100%"/></td>
-    <td><img src="https://github.com/user-attachments/assets/5690c3ed-7060-4447-bc43-23d8c90a604e" width="100%"/></td>
-  </tr>
-</table>
+
 ## 지역별 상관관계 분석
 <table>
   <tr>
@@ -41,5 +28,6 @@
     <td><img src="https://github.com/user-attachments/assets/5690c3ed-7060-4447-bc43-23d8c90a604e" width="100%"/></td>
   </tr>
 </table>
+
 
 
