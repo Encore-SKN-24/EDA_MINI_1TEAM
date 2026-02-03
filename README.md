@@ -145,7 +145,16 @@ by EDA_MINI_1TEAM
 ![서울시 계약종별 전력사용량](https://github.com/yourusername/repository/blob/main/서울.png) ![경인지역 계약종별 전력사용량](https://github.com/yourusername/repository/blob/main/경인지역.png)
 
 
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EC%84%9C%EC%9A%B8.png" style="width:100%; height:auto;" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/GitPractice-Hozero/practice_2/blob/kyu5KIm/%EA%B2%BD%EC%9D%B8%EC%A7%80%EC%97%AD.png" style="width:100%; height:auto;" />
+    </td>
+  </tr>
+</table>
 ## 날씨 데이터 컬럼 설명
 
 | 컬럼명 | 설명 |
@@ -206,6 +215,7 @@ by EDA_MINI_1TEAM
   - 시간적 범위: 단기 데이터 분석으로, 장기적 기후변화 추세로 일반화하기에는 한계가 있음.
   - 분석의 지향점: 신규 알고리즘 개발보다 EDA와 기초 통계 모델을 통한 직관적 패턴 탐색 및 검증에 주력함.
   
+
 
 
 
