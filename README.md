@@ -76,8 +76,9 @@
 | CDD | 냉방도일 – 냉방 필요 정도를 나타내는 지표 |
 | HDD | 난방도일 – 난방 필요 정도를 나타내는 지표 |
 
-CDD (Cooling Degree Day, 냉방도일) = {\small $\max(T_\text{평균} - 24, 0)$}  
-HDD (Heating Degree Day, 난방도일) = {\small $\max(18 - T_\text{평균}, 0)$}
+<small>CDD (Cooling Degree Day, 냉방도일) = $\max(T_\text{평균} - 24, 0)$</small>  
+<small>HDD (Heating Degree Day, 난방도일) = $\max(18 - T_\text{평균}, 0)$</small>
+
 
 
 
